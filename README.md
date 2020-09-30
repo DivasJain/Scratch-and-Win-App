@@ -1,6 +1,7 @@
 # scratch_win
 
 A new Flutter project.
+A very simple yet interesting scratch and win app with a plain ui.
 
 ## Getting Started
 
